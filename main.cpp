@@ -6,4 +6,7 @@
 //this is a perfect commit
 
 int main()
-{}
+{
+
+    //this is a c++ main function
+}
